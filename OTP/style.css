@@ -1,0 +1,44 @@
+
+body{ 
+    margin:0%;  
+}
+.center{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    
+}
+.text-center{
+    text-align:center;
+}
+.font-stretch{
+    font-stretch: expanded;
+}
+.font-30{
+    font-size: 30px;
+}
+.width-25{
+    width:25px;
+}
+.height-50{
+    height:50px;
+}
+.font-white{
+    color:white;
+}
+.border-r-5{
+    border-radius: 5px;
+}
+.border-balck{
+    border:black solid 2px;
+}
+
+.font-20{
+    font-size:20px;
+}
+
+input:focus{
+    border:2px solid red;
+    
+}
