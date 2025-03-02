@@ -2,7 +2,7 @@
     
     border: 2px solid black; 
     position:absolute;
-    margin-left: 27%;
+   
 }
 
 .Black,.white{
@@ -30,3 +30,12 @@ body{
     background-color: white;
     
 }
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+    background-color: #0eac00; 
+}
+
